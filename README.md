@@ -8,7 +8,7 @@ Made for an experiment for the project [JS Raycaster](https://github.com/Leandro
 	<img src=".github/screenshot01.png"/>
 </center>
 
-[Live demo here](https://leandrosq.github.io/dda-algorithm-visualizer/)
+[Live demo here](https://leandrosq.github.io/dda-algorithm-visualizer/index.html)
 
 ## How to use
 The screen represents a grid of cells.
